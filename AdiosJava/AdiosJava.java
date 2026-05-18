@@ -2,7 +2,7 @@ package Java.AdiosJava;
 import java.util.Scanner;
 public class AdiosJava {
 
-    public static int multiplicar(int n1, int n2) {
+    public static int multiplicar(int numero1, int numero2) {
         return n1 * n2;
     }
 
